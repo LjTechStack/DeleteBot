@@ -1,0 +1,1 @@
+CLIENT_KEY = "get value from discord bot"
