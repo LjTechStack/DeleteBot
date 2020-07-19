@@ -1,0 +1,2 @@
+DELETE = 'we have deleted:'
+
